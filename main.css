@@ -1,0 +1,18 @@
+.main{
+    text-align: center;
+  
+}
+.psec{
+color: grey;
+}
+.sec{
+    display: inline-block;
+    width: 22%;
+}
+i{
+    color: orange;
+    
+}
+.head{
+    height: 60px;
+}
